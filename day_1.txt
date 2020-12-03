@@ -1,0 +1,14 @@
+What do you mean by Git and GitHub?
+Ans: So speaking technically it is a version control system used to maintain our source code to keep track of our updates in the code and also allows multiple parallel updations through branching to work the same code without any conflict. Git Hub is a platform for maintaining the same code but hosted in a cloud service rather than our host devices which makes it hard for the contributions by others/people in the organization. Version control mainly helps is in tracking the changes and easily helps us in restoring back if something is wrong or we need an old update again
+
+Why GitHub is so popular and used in most of the projects?
+Ans : beacuse of its easy to use UI and its other helpful tools like CI/CD and it is easy to manage projects by an organizations through repository and also free hosting service for open source projects where every one can contribute to it
+
+What is a version control system? How Git is a VCS?
+Ans : Without a version control system it makes hard to develop an application dude to the manual updation of changes and when ever we change something we need to make a copy of it to revert back if the update fails or we need a previous update and other than this the main problem is when working with an organization it is hard to merge every one contribution manually. To tackle all of these problems VCS helps us in this process automation.
+
+What are the other platforms similar to GitHub?
+Ans : Git lab , bit bucket etc
+
+Why are you interested in learning of Git and GitHub?
+Ans : It works as a hosting platform for me to maintain and work on my projects and helps me to get into open source contibution for some one else projects or some oganization
