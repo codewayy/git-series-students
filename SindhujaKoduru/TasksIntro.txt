@@ -1,0 +1,65 @@
+Introduction to Git and Github
+
+Git is a distributed version control system. It was developed by Linus Torvalds in
+2005 for Developers working on the Linux Kernel and is being maintained by a large
+community across the world. Every Git working directory is a full-fledged repository
+with complete history and full version-tracking capabilities, independent of network
+access or a central server.
+
+Github on the other hand is a Web User-Interface with a Cloud Hosting Service that
+allows for the maintenance of Git Repositories on Cloud. Github provides a whole host
+of services that are conducive of Project Management with Issue Tracking and deploying
+the Application with CI/CD Pipelines.
+
+In the first Week of Codewayy Open-Source Mentorship, we will be taking a look at few
+of the topics that are detailed below.
+
+Day 1: Basics of Git and Github
+
+In the first Day, we will discuss the basics of Git and Github and how we can set it
+up on the Local Machine. We will also discuss topics like:
+
+What is Git?
+What is Version Control System?
+How to configure Git?
+
+Day 2: Managing Projects with Git
+
+In the second Day, we will discuss the usecases of Git with respect to Project
+Management and how we can make use of it for our purpose. We will discuss topics like:
+
+What are Repositories on Git?
+Creating Repositories on Git?
+Commiting changes on Git Repository
+Project Workflow in Git
+Pushing Git Projects to Github
+
+Day 3: Working on Github
+
+In the third Day, we will see how the Project Management is done on Github. We will
+dicuss topics like:
+
+Forking a Repository on Github
+Making a Pull Request on Github
+Creating Branches on Github
+Pushing changes on Github
+
+Day 4: Managing Issues and Code through Git
+
+In the fourth Day, we will explore concepts to further improve our familiarity with
+Git and Github. We will discuss topics like:
+
+What is Git Merge?
+Branching, Merging and Deleting Branch in Git
+Merge Conflicts in Git
+Stashing Git Commits
+Cherry-Picking Commits
+Creating Issues on Github
+
+Day 5: Assignment on Git and Github
+
+In the fifth Day, we will finally go through all the topics that we have explored
+earlier. We will go through all the concepts and it is expected that with this
+assignment, you can iron out any doubts that you have about Git and Github.
+We expect at the end of the first week, you can manage your projects and contribute to
+different projects with a strict understanding of Git and Github.
