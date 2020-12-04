@@ -4,7 +4,8 @@ Date of Birth: 08/09/2001
 
 Education: Persuing B.Tech 3rd year in Information Technology,
 	at SASTRA University.
-Address:
+Residential Address:
+	HaranadhaPuram,
 	Nellore,
 	AndhraPradesh-524001,
 	India.
