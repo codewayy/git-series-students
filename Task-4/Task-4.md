@@ -27,4 +27,5 @@ way possible.
 * Ans : There are four stages of the whole git workflow. 1.working directory 2.staging 3.local and 4.remote repository.Working directory is the place where we do changes to our code and work everything and staging is where we commit the changes meaning we save them like a check point. staging here work like a waiting list of the changes that are about to be commited but not yet. remote repository will be hosted in github or similar where everyone/other colaborators can also make their own updates to the code and merge them and git will take care of not making the conflicts
 
 
-3. https://github.com/madhucharan/git_series
+3. Where is the link to the repository?
+* https://github.com/madhucharan/git_series
