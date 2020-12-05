@@ -1,0 +1,23 @@
+Topics learned:
+
+What is Git?
+What is Version Control System?
+How to configure Git?
+
+What are Repositories on Git?
+Creating Repositories on Git?
+Commiting changes on Git Repository
+Project Workflow in Git
+Pushing Git Projects to Github
+
+Forking a Repository on Github
+Making a Pull Request on Github
+Creating Branches on Github
+Pushing changes on Github
+
+What is Git Merge?
+Branching, Merging and Deleting Branch in Git
+Merge Conflicts in Git
+Stashing Git Commits
+Cherry-Picking Commits
+Creating Issues on Github
