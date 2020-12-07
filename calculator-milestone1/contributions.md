@@ -2,3 +2,6 @@
 https://github.com/pranali0127/git-series-students/pull/1
 
 mod operation: https://github.com/renuka142/git-series-students/pull/2
+
+
+multiply operation: https://github.com/madhucharan/git-series-students/pull/1
