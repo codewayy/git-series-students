@@ -1,11 +1,12 @@
-#function for power operation
-def  calc_power(num,pow):
-    return num**pow
+# function for power operation
+def power(a, b):
+    return a ** b
 
-#Taking  num and pow as inputs
-num = int(input("Enter value of a : "))
-pow = int(input("Enter value of b : "))
 
-#get and display result
-result = calc_power(num,pow)
-print(result)
+# #Taking  num and pow as inputs
+# num = int(input("Enter value of number : "))
+# pow = int(input("Enter value of power : "))
+
+# get and display result
+# result = power(num,pow)
+# print(power(a,b))
