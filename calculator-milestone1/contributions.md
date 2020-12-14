@@ -1,5 +1,7 @@
 - Divide Operation
 - https://github.com/SindhujaKoduru89/git-series-students/pull/1#issue-533199872
+- Add Operation
+- https://github.com/pranali0127/git-series-students/pull/1
 - Substract Operation
 - https://github.com/renuka142/git-series-students/pull/4
 - mod operation 
